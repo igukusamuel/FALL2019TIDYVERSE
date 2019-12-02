@@ -136,3 +136,22 @@ Part 01:
 Part 02: Tidyverse Assignment Part 02 Extended from SHaslett-607-Tidyverse-assignment.Rmd
 * Added group_by()
 * Added ggplot()
+
+## FiveThirtyEight TidyVerse Data Source: president_primary_polls
+Author: Samuel Kigamba
+Data selected: https://projects.fivethirtyeight.com/polls-page/president_primary_polls.csv 
+Github repository: https://github.com/igukusamuel/FALL2019TIDYVERSE/edit/master/README.md
+
+Section 1
+Load DAta
+rename()
+slice()
+groupby()
+tally()
+glimpse()
+
+Section 2
+Extended: https://github.com/forhadakbar/FALL2019TIDYVERSE/blob/master/DATA607_TidyVerse_ForhadAkbar_01.Rmd
+rename() function
+
+
