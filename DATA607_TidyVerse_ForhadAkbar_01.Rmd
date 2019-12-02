@@ -103,5 +103,7 @@ Usage: group_by(data, …)
 Example: Find the count by sex
 
 ```{r}
+heart_new <- dplyr::rename(heart, M_F = sex) #Rename column sex to M_F
+names(heart_new)
 heart %>% group_by(sex) %>% tally()
 ```
